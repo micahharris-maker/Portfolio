@@ -5,11 +5,11 @@ Aspiring IT Support and Cybersecurity Professional
 
 <details>
 
-<summary>IT Resume - Micah Harris/<summary>
+<summary>IT Resume - Micah Harris</summary>
 
 Micah Harris
 
-Contacts & Links
+## Contacts & Links
 
 micahbharris@gmail.com [Github](github.com/micahharris-maker)
 
